@@ -1,0 +1,2 @@
+room:A01-1
+occupant:TP002201

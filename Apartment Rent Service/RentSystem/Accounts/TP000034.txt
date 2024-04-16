@@ -1,0 +1,5 @@
+TP000034:3
+Name:Mayra Alvarado
+Room:B01-2
+Total Bill:RM1800
+Total Paid:RM1800

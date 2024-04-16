@@ -1,0 +1,5 @@
+TP007993:2
+Name:Lucy Kemp
+Room:B02-M
+Total Bill:RM2600
+Total Paid:RM2350

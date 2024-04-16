@@ -1,0 +1,2 @@
+room:B13-M
+occupant:none

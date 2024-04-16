@@ -1,0 +1,5 @@
+TP006219:1
+Name:Heidi York
+Room:A05-1
+Total Bill:RM2350
+Total Paid:RM2350

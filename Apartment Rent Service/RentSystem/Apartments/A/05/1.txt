@@ -1,0 +1,2 @@
+room:A05-1
+occupant:TP006219

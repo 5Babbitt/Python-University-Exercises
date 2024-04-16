@@ -1,0 +1,2 @@
+room:B02-M
+occupant:TP007993

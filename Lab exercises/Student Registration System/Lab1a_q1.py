@@ -1,0 +1,1 @@
+print("Welcome to student registration system\n\t1. Register\n\t2. Update\n\t3. Delete\n\t4. Exit")

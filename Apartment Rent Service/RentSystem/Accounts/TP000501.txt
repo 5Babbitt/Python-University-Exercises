@@ -1,0 +1,5 @@
+TP000501:3
+Name:Sloane Norman
+Room:B05-1
+Total Bill:RM1600
+Total Paid:RM1600

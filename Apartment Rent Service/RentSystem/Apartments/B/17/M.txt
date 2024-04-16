@@ -1,0 +1,2 @@
+room:B17-M
+occupant:none

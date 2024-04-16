@@ -1,0 +1,5 @@
+TP007297:3
+Name:Ruby Marks
+Room:B02-1
+Total Bill:RM1600
+Total Paid:RM1000

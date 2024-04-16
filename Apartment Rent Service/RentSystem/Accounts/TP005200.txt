@@ -1,0 +1,5 @@
+TP005200:3
+Name:Shayna Adams
+Room:B04-2
+Total Bill:RM1600
+Total Paid:RM1600

@@ -1,0 +1,2 @@
+room:B19-1
+occupant:none

@@ -1,0 +1,5 @@
+TP number:Password:Full Name:Months Stayed:Total Paid
+-----------------------------------------------------
+TP000416:3:Valentina Hill:3:1350.0
+TP008870:4:Alisson Eaton:1:500.0
+TP000150:4:Bria Ferrell:1:300.0

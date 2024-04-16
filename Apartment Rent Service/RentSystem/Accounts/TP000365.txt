@@ -1,0 +1,5 @@
+TP000365:3
+Name:Anika Grimes
+Room:B05-2
+Total Bill:RM1800
+Total Paid:RM1800

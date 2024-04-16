@@ -1,0 +1,18 @@
+07:45             Atlanta           AA223             B4                Boarding          
+07:55             Prague            BA036             A2                Boarding          
+08:05             New York-JFK      AA220             B4                Delayed           
+08:20             Chicago           AA523             B6                On-Time           
+08:35             Mexico            VI303             D2                On-Time           
+08:35             Amsterdam         BA096             A3                On-Time           
+08:40             London - LHR      BA087             A3                On-Time           
+08:55             San Juan          AA342             C6                Delayed           
+09:00             London-GTW        VI309             D3                On-Time           
+09:05             Sydney            QU607             F2                On-Time           
+09:20             Washington        AA042             B2                On-Time           
+09:20             Atlanta           AA224             B4                Canceled          
+09:30             Boston            AA342             B6                On-Time           
+09:35             Vancouver         AC093             D3                On-Time           
+09:40             Fort Lauder       AA462             B5                Delayed           
+09:40             Toronto           AC293             D6                Delayed           
+09:50             Paris             AF342             B6                On-Time           
+09:55             Las Vegas         AA229             B2                On-Time 

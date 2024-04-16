@@ -1,0 +1,2 @@
+room:B04-2
+occupant:TP005200

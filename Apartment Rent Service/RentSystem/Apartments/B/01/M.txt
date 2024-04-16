@@ -1,0 +1,2 @@
+room:B01-M
+occupant:TP001537

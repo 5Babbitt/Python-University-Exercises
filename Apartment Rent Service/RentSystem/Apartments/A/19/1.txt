@@ -1,0 +1,2 @@
+room:A19-1
+occupant:none
